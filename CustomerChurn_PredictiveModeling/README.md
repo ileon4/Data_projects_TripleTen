@@ -13,7 +13,7 @@ With my modeling, I predict whether a customer will leave the bank soon. I use t
 Tools: Python - scikit-learn
 
 ### Measurable Success:
-☆ Achieved 61.18% **F1 score** on test set, exceeding the 59% target requirement
+☆ Achieved 61.18% **F1 score** on test set, exceeding the 59% target requirement  
 ☆ Trained and compared 2 different algorithms (**Logistic Regression**, **Random Forest**)
 ☆ Performed systematic hyperparameter tuning across 20 parameter combinations
 ☆ Addressed severe class imbalance (79.6% vs 20.4% distribution) using 4 different techniques
