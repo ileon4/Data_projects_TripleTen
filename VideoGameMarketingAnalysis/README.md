@@ -7,13 +7,13 @@ This project analyzes comprehensive video game sales data to identify market pat
 Tools: Python - Exploratory Data Analysis with Pandas, NumPy, Matplotlib
 
 ### Measurable Success:
-☆ Created 15+ data visualizations using Matplotlib and Seaborn (heatmaps, scatter plots, time series)
-☆ Performed correlation analysis showing 0.339 correlation between critic scores and sales
-☆ Built pivot tables and cross-tabulations for multi-dimensional data analysis
-☆ Implemented advanced pandas operations including **groupby**, **pivot_table**, and statistical aggregations
-☆ Conducted 2 independent **t-tests** with α=0.05 to validate business hypotheses about platform and genre performance
-☆ Analyzed 12 distinct game genres with Action games leading at 19.2% market share ($1.56B in sales)
-☆ Identified peak gaming industry period (2006-2011) with 1,000+ annual game releases
+☆ Created 15+ data visualizations using Matplotlib and Seaborn (heatmaps, scatter plots, time series)  
+☆ Performed correlation analysis showing 0.339 correlation between critic scores and sales  
+☆ Built pivot tables and cross-tabulations for multi-dimensional data analysis  
+☆ Implemented advanced pandas operations including **groupby**, **pivot_table**, and statistical aggregations  
+☆ Conducted 2 independent **t-tests** with α=0.05 to validate business hypotheses about platform and genre performance  
+☆ Analyzed 12 distinct game genres with Action games leading at 19.2% market share ($1.56B in sales)  
+☆ Identified peak gaming industry period (2006-2011) with 1,000+ annual game releases  
 ☆ Calculated year-over-year growth rates showing 35-87% declines across major platforms (2014-2016)
 
 
