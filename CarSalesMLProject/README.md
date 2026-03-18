@@ -1,0 +1,4 @@
+- Achieved 1,740.73 RMSE on validation set with LightGBM, significantly outperforming baseline Linear Regression by 45.6% (3,193.60 vs 1,740.73)
+- Delivered 1,780.93 RMSE on final test set, meeting production-quality prediction standards
+- Achieved 84.48% R² score on test set, explaining majority of price variance
+- Maintained 1,096.20 MAE (Mean Absolute Error), indicating robust prediction accuracy
