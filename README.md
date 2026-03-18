@@ -1,6 +1,4 @@
 # Data_projects_TripleTen
-
-# Data_projects_TripleTen
 These projects were completed during the course of my data science bootcamp and demonstrate my skills in Python data cleaning and analysis as well as Machine Learning.
 
 | Project # | Title | Description |
