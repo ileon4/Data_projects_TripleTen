@@ -22,6 +22,7 @@ Tools: Python - scikit-learn
 ☆ Correctly identified 223 out of 371 churning customers (60% recall) while maintaining precision  
 ☆ Reduced false negatives from 371 (baseline) to 148 (final model), improving churn detection by 60%  
 
+
 ## Images of Features
 
 ### Feature Encoding
