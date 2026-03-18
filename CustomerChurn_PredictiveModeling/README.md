@@ -14,13 +14,13 @@ Tools: Python - scikit-learn
 
 ### Measurable Success:
 ☆ Achieved 61.18% **F1 score** on test set, exceeding the 59% target requirement  
-☆ Trained and compared 2 different algorithms (**Logistic Regression**, **Random Forest**)
-☆ Performed systematic hyperparameter tuning across 20 parameter combinations
-☆ Addressed severe class imbalance (79.6% vs 20.4% distribution) using 4 different techniques
-☆ Achieved 84% overall **accuracy** with 62% **precision** and 60% **recall** for churn prediction
-☆ Generated **AUC-ROC score** of 0.58, demonstrating model's discriminative ability
-☆ Correctly identified 223 out of 371 churning customers (60% recall) while maintaining precision
-☆ Reduced false negatives from 371 (baseline) to 148 (final model), improving churn detection by 60%
+☆ Trained and compared 2 different algorithms (**Logistic Regression**, **Random Forest**)  
+☆ Performed systematic hyperparameter tuning across 20 parameter combinations  
+☆ Addressed severe class imbalance (79.6% vs 20.4% distribution) using 4 different techniques  
+☆ Achieved 84% overall **accuracy** with 62% **precision** and 60% **recall** for churn prediction  
+☆ Generated **AUC-ROC score** of 0.58, demonstrating model's discriminative ability  
+☆ Correctly identified 223 out of 371 churning customers (60% recall) while maintaining precision  
+☆ Reduced false negatives from 371 (baseline) to 148 (final model), improving churn detection by 60%  
 
 ## Images of Features
 
