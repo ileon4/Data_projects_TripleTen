@@ -1,6 +1,6 @@
 ## Customer Churn Predictive Modeling Project
 
-CustomerChurn_PredictiveModeling.ipynb
+Most recent draft is CustomerChurn_PredictiveModeling.ipynb
 
 This project analyzes customer churn for Beta Bank by building machine learning models to predict which customers are likely to leave the bank, helping the bank retain existing customers rather than acquiring new ones.
 
