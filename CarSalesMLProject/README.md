@@ -1,6 +1,6 @@
 ## Car Sales Machine Learning Project
 
-This project compares different machine learning models used to best predict car prices for a car sales company wanting to building an app. The first portion of the project is dedicated to properly encoding features and then I go on to train and test 6 different models.
+This project compares different machine learning models used to best predict car prices for a car sales company wanting to build an app. The first portion of the project is dedicated to properly encoding features and then I go on to train and test 6 different models.
 
 ----------
 
